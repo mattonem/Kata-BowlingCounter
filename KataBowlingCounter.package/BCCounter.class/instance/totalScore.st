@@ -1,3 +1,3 @@
 accessing
 totalScore
-	^ self basicScore + self spareScore + self strikeScore
+	^ frames sum: [ :frame | frame scoreIn: self ]

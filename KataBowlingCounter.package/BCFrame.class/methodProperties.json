@@ -1,15 +1,18 @@
 {
 	"instance" : {
-		"ball:" : "maxmattone 12/9/2016 09:59",
+		"ball:" : "maxmattone 12/11/2016 14:12",
 		"firstBall" : "maxmattone 12/9/2016 10:55",
 		"secondBall" : "maxmattone 12/9/2016 11:12",
+		"status:" : "maxmattone 12/11/2016 14:19",
 		"isStrike" : "maxmattone 12/9/2016 10:52",
-		"isFinished" : "maxmattone 12/9/2016 10:49",
+		"isFinished" : "maxmattone 12/11/2016 14:38",
 		"balls" : "maxmattone 12/9/2016 10:34",
 		"isSpare" : "maxmattone 12/9/2016 10:02",
-		"initialize" : "maxmattone 12/9/2016 09:59",
-		"ifFinished:" : "maxmattone 12/9/2016 10:34",
-		"score" : "maxmattone 12/9/2016 12:19"
+		"initialize" : "maxmattone 12/11/2016 14:26",
+		"basicAddBall:" : "maxmattone 12/11/2016 14:14",
+		"ifFinished:" : "maxmattone 12/11/2016 14:41",
+		"score" : "maxmattone 12/9/2016 12:19",
+		"scoreIn:" : "maxmattone 12/11/2016 14:03"
 	},
 	"class" : { }
 }

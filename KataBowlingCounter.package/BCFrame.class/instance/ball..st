@@ -1,3 +1,3 @@
 as yet unclassified
-ball: anInteger 
-	balls add: anInteger
+ball: anInteger
+	status addBall: anInteger in: self

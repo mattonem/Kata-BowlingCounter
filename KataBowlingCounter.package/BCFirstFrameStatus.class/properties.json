@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "BCFrameStatus",
+	"category" : "KataBowlingCounter",
+	"classinstvars" : [
+		"instance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BCFirstFrameStatus",
+	"type" : "normal"
+}

@@ -1,4 +1,5 @@
 initialization
 initialize
 	super initialize.
-	balls := OrderedCollection new
+	balls := OrderedCollection new.
+	status := BCFirstFrameStatus new

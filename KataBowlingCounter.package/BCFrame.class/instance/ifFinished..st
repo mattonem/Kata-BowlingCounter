@@ -1,3 +1,3 @@
 testing
-ifFinished: aBlockClosure 
-	^ self isFinished ifTrue: aBlockClosure
+ifFinished: aBlockClosure
+	^ status ifFinished: aBlockClosure

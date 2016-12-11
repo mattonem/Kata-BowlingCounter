@@ -1,0 +1,3 @@
+testing
+ifFinished: aBlockClosure 
+	^ self

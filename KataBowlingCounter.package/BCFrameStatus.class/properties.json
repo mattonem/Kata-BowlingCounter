@@ -2,13 +2,12 @@
 	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "KataBowlingCounter",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"instance"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"balls",
-		"status"
-	],
-	"name" : "BCFrame",
+	"instvars" : [ ],
+	"name" : "BCFrameStatus",
 	"type" : "normal"
 }
