@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"ball:" : "maxmattone 12/9/2016 09:59",
+		"firstBall" : "maxmattone 12/9/2016 10:55",
+		"secondBall" : "maxmattone 12/9/2016 11:12",
+		"isStrike" : "maxmattone 12/9/2016 10:52",
+		"isFinished" : "maxmattone 12/9/2016 10:49",
+		"balls" : "maxmattone 12/9/2016 10:34",
+		"isSpare" : "maxmattone 12/9/2016 10:02",
+		"initialize" : "maxmattone 12/9/2016 09:59",
+		"ifFinished:" : "maxmattone 12/9/2016 10:34",
+		"score" : "maxmattone 12/9/2016 12:19"
+	},
+	"class" : { }
+}

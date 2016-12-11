@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"frames" : "maxmattone 12/9/2016 10:46",
+		"basicScore" : "maxmattone 12/9/2016 12:19",
+		"spareScore" : "maxmattone 12/9/2016 11:23",
+		"ballAfter:" : "maxmattone 12/9/2016 11:02",
+		"initialize" : "maxmattone 12/9/2016 10:10",
+		"ball:" : "maxmattone 12/9/2016 10:32",
+		"secondBallAfter:" : "maxmattone 12/9/2016 11:32",
+		"strikeScore" : "maxmattone 12/9/2016 11:22",
+		"totalScore" : "maxmattone 12/9/2016 11:19"
+	},
+	"class" : { }
+}

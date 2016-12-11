@@ -1,0 +1,3 @@
+accessing
+firstBall
+	^ balls first
