@@ -1,13 +1,13 @@
 {
 	"commentStamp" : "<historical>",
 	"super" : "TestCase",
-	"category" : "Kata-BowlingCounter-Tests",
+	"category" : "KataBowlingCounter-Tests",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"frame"
+		"counter"
 	],
-	"name" : "BCFrameTest",
+	"name" : "BCCounterTest",
 	"type" : "normal"
 }

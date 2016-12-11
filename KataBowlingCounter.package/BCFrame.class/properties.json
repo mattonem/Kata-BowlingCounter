@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "Object",
-	"category" : "Kata-BowlingCounter",
+	"category" : "KataBowlingCounter",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
