@@ -1,17 +1,17 @@
 SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
-      #baseline : 'Kata-BowlingCounter',
+      #baseline : 'KataBowlingCounter',
       #directory : '.', 
       #platforms : [ #pharo ]
     }
   ],
   #testing : {
     #coverage : {
-      #categories : [ 'Kata-BowlingCounter' ]
+      #categories : [ 'KataBowlingCounter' ]
     },
     #include : {
-      #categories : [ 'Kata-BowlingCounter-Tests' ]
+      #categories : [ 'KataBowlingCounter-Tests' ]
     }
   }
 }
