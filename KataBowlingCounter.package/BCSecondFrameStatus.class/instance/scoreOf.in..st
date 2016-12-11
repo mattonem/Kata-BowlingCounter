@@ -1,3 +1,3 @@
 processing
-scoreOf: aBCFrame in: aBCCounter 
+scoreOf: aBCFrame in: aBCCounter
 	^ aBCFrame balls sum

@@ -1,10 +1,5 @@
 {
-	"instance" : {
-		"scoreOf:in:" : "maxmattone 12/11/2016 14:18",
-		"ifFinished:" : "maxmattone 12/11/2016 14:41",
-		"addBall:in:" : "maxmattone 12/11/2016 14:18",
-		"isFinished" : "maxmattone 12/11/2016 14:40"
-	},
+	"instance" : { },
 	"class" : {
 		"new" : "maxmattone 12/11/2016 14:17"
 	}
