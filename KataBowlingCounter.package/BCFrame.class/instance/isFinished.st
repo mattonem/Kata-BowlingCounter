@@ -1,3 +1,0 @@
-testing
-isFinished
-	^ status isFinished
