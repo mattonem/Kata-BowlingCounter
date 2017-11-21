@@ -2,7 +2,7 @@ adding
 initialize
 	super initialize.
 	announcer
-		when: BCBallThrow
+		when: BCBallThrowAnnouncement
 		do: [ :ann | 
 			hits := ann hits.
 			ann frame basicAddBall: hits.

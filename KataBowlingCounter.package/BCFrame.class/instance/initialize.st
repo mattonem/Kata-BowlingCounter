@@ -5,7 +5,7 @@ initialize
 	self status: BCFirstFrameStatus new.
 	announcer := Announcer new.
 	announcer
-		when: BCBallThrow
+		when: BCBallThrowAnnouncement
 		do: [ :ann | 
 			status
 				announce:

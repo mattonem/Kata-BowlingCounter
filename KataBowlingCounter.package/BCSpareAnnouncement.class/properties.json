@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "BCFrameFinished",
+	"super" : "BCFrameFinishedAnnouncement",
 	"category" : "KataBowlingCounter",
 	"classinstvars" : [ ],
 	"pools" : [ ],

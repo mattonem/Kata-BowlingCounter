@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "BCFrameFinished",
+	"super" : "BCFrameFinishedAnnouncement",
 	"category" : "KataBowlingCounter",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "BCSecondThrow",
+	"name" : "BCSecondThrowAnnouncement",
 	"type" : "normal"
 }

@@ -2,6 +2,6 @@ as yet unclassified
 ball: anInteger
 	announcer
 		announce:
-			(BCBallThrow new
+			(BCBallThrowAnnouncement new
 				hits: anInteger;
 				yourself).
