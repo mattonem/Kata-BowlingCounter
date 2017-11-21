@@ -5,4 +5,4 @@ initialize
 		when: BCBallThrowAnnouncement
 		do: [ :ann | 
 			ann frame basicAddBall: ann hits.
-			announcer announce: ((self specialEventsAt: ann) new frame: ann frame) ]
+			announcer announce: (self specialEventsAt: ann) new ]
