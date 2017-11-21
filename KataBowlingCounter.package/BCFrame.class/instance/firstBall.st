@@ -1,3 +1,5 @@
 accessing
 firstBall
-	^ balls first
+	^ balls
+		ifEmpty: [ ^ 0 ];
+		first
