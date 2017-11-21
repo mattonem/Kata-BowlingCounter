@@ -2,4 +2,13 @@ initialization
 initialize
 	super initialize.
 	balls := OrderedCollection new.
-	status := BCFirstFrameStatus new
+	self status: BCFirstFrameStatus new.
+	announcer := Announcer new.
+	announcer
+		when: BCBallThrow
+		do: [ :ann | 
+			status
+				announce:
+					(ann
+						frame: self;
+						yourself) ]
