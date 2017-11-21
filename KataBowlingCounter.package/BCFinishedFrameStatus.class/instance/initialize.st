@@ -1,3 +1,0 @@
-processing
-initialize
-	super initialize.
