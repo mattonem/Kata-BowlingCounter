@@ -1,3 +1,0 @@
-testing
-ifFinished: aBlockClosure 
-	^ self

@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"frames"
+		"frames",
+		"announcer"
 	],
 	"name" : "BCCounter",
 	"type" : "normal"

@@ -1,0 +1,3 @@
+testing
+isFinished
+	^ status isFinished 

@@ -1,5 +1,8 @@
 accessing
 initialize
 	super initialize.
-
-	frames := OrderedCollection with: BCFrame new.
+	announcer := Announcer new.
+	
+	frames := OrderedCollection new.
+	announcer when: BCBallThrowAnnouncement do: [:announcement | frames last announce: announcement ].
+	self addFrame: BCFrame new

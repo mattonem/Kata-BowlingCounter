@@ -7,7 +7,8 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"balls",
-		"status"
+		"status",
+		"announcer"
 	],
 	"name" : "BCFrame",
 	"type" : "normal"

@@ -1,0 +1,3 @@
+processing
+isFinished
+	^ false
