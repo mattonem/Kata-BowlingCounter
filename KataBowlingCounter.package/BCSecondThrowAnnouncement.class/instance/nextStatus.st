@@ -1,3 +1,3 @@
 accessing
 nextStatus
-	^ BCFinishedFrameStatus new
+	^ BCSecondFrameStatus new

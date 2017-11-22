@@ -1,3 +1,3 @@
 processing
-scoreOf: aBCFrame in: aBCCounter 
-	^ aBCFrame balls sum
+scoreOf: aBCFrame in: aBCCounter
+	self subclassResponsibility

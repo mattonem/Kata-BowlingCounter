@@ -1,3 +1,3 @@
 testing
 isSpare
-	^ self score = 10
+	^ status isSpare
