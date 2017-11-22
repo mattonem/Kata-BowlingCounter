@@ -1,0 +1,3 @@
+testing
+isStrike
+	^ false
