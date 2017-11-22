@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 ball: anInteger
 	announcer
 		announce:

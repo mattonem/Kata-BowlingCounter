@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 nextStatus
-	^ BCFinishedFrameStatus new
+	^ BCSecondFrameStatus new

@@ -1,0 +1,3 @@
+accessing
+nextStatus
+	^ self subclassResponsibility

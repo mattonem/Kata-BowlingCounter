@@ -1,4 +1,4 @@
-acessign
+accessing
 secondBallAfter: aBCFrame 
 	| nextFrame |
 	nextFrame := frames after: aBCFrame ifAbsent: [^ 0].
