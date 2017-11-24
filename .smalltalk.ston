@@ -9,9 +9,6 @@ SmalltalkCISpec {
   #testing : {
     #coverage : {
       #categories : [ 'KataBowlingCounter' ]
-    },
-    #include : {
-      #categories : [ 'KataBowlingCounter-Tests' ]
     }
   }
 }
